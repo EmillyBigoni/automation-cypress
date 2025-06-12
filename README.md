@@ -1,7 +1,7 @@
-# automation-cypress ui
+# automation-cypress-ui
 
 # Instalação e Configuração do Ambiente com Cypress
-# Instalação e Configuração do Ambiente
+
 
 Para instalar e configurar o Cypress, é necessário primeiro garantir que o ambiente atenda aos pré-requisitos, que incluem a instalação do **Node.js** na versão **18.16.8** ou superior, e do **NPM (Node Package Manager)** na versão **9.5.1** ou superior.
 
